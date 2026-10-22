@@ -215,8 +215,8 @@ apt + outbound HTTPS**:
 - a WSL2 Ubuntu instance (`cloudflared` then gives you a public URL too)
 
 ```bash
-unzip linux-desktop-browser.zip
-cd linux-desktop-in-browser
+unzip KaggleDesk.zip
+cd KaggleDesk
 bash setup.sh
 ```
 
